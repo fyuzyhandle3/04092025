@@ -1,0 +1,7 @@
+UT vs IT
+
+UT (unit test) → check 1 small part of code (FN, CLS). No DB, no API, no net. Often use MK/STB instead
+of real parts. Goal = see if that piece works OK.
+
+IT (integration test) → check how parts work together. Combine MODs/CMPS. Example: FN + DB. Goal = see
+if comm (COMM) between them works fine.
